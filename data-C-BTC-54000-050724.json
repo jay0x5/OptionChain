@@ -1,1 +1,53 @@
-ewogICAgImNsb3NlIjogMTcyOC4wLAogICAgImNvbnRyYWN0X3R5cGUiOiAiY2FsbF9vcHRpb25zIiwKICAgICJkZXNjcmlwdGlvbiI6ICJCVEMgIENhbGwiLAogICAgImdyZWVrcyI6IHsKICAgICAgICAiZGVsdGEiOiAiMC44MDQ1MjU1NCIsCiAgICAgICAgImdhbW1hIjogIjAuMDAwMTUyODgiLAogICAgICAgICJyaG8iOiAiMC40MzEyNjc1OSIsCiAgICAgICAgInNwb3QiOiAiNTU0OTkuNCIsCiAgICAgICAgInRoZXRhIjogIi02ODAuMzY0OTU1OTQiLAogICAgICAgICJ2ZWdhIjogIjQuODU1NzkyNDAiCiAgICB9LAogICAgImhpZ2giOiA0NDg1LjAsCiAgICAiaW5pdGlhbF9tYXJnaW4iOiAiMS4wMDAwMDAwMDAwMDAwMDAwMDAiLAogICAgImxvdyI6IDE2MzYuMCwKICAgICJtYXJrX2NoYW5nZV8yNGgiOiAiNzAuNDQwMCIsCiAgICAibWFya19wcmljZSI6ICIxNjg0LjMzNjY1NzYzIiwKICAgICJtYXJrX3ZvbCI6ICIxLjAyNjk4NDQyIiwKICAgICJvaSI6ICIwLjAxMDAiLAogICAgIm9pX2NoYW5nZV91c2RfNmgiOiAiMC4wMDAwIiwKICAgICJvaV9jb250cmFjdHMiOiAiMTAiLAogICAgIm9pX3ZhbHVlIjogIjAuMDEwMCIsCiAgICAib2lfdmFsdWVfc3ltYm9sIjogIkJUQyIsCiAgICAib2lfdmFsdWVfdXNkIjogIjU1My44OTEwIiwKICAgICJvcGVuIjogMzg4Ni4wLAogICAgInByaWNlX2JhbmQiOiB7CiAgICAgICAgImxvd2VyX2xpbWl0IjogIjU0My40OTgxNDE3NiIsCiAgICAgICAgInVwcGVyX2xpbWl0IjogIjI4ODIuMDU1NDIzOTUiCiAgICB9LAogICAgInByb2R1Y3RfaWQiOiAxOTA4NDQsCiAgICAicXVvdGVzIjogewogICAgICAgICJhc2tfaXYiOiAiMS4yOTA2NjQ2IiwKICAgICAgICAiYXNrX3NpemUiOiAiMTQ1NiIsCiAgICAgICAgImJlc3RfYXNrIjogIjE4MzYiLAogICAgICAgICJiZXN0X2JpZCI6ICIxNjQ2IiwKICAgICAgICAiYmlkX2l2IjogIjAuOTE0NjA3MjMiLAogICAgICAgICJiaWRfc2l6ZSI6ICIyMTgzIiwKICAgICAgICAiaW1wYWN0X21pZF9wcmljZSI6IG51bGwsCiAgICAgICAgIm1hcmtfaXYiOiAiMS4wMjY5ODQ0MiIKICAgIH0sCiAgICAic2l6ZSI6IDQ3LAogICAgInNwb3RfcHJpY2UiOiAiNTU0NzQuMSIsCiAgICAic3RyaWtlX3ByaWNlIjogIjU0MDAwIiwKICAgICJzeW1ib2wiOiAiQy1CVEMtNTQwMDAtMDUwNzI0IiwKICAgICJ0YWdzIjogW10sCiAgICAidGlja19zaXplIjogIjAuMTAwMDAwMDAwMDAwMDAwMDAwIiwKICAgICJ0aW1lc3RhbXAiOiAxNzIwMTQ5MTQ2MTg1MTM0LAogICAgInR1cm5vdmVyIjogMjcxNS4yMzQ0LAogICAgInR1cm5vdmVyX3N5bWJvbCI6ICJVU0RUIiwKICAgICJ0dXJub3Zlcl91c2QiOiAyNzE1LjIzNDQsCiAgICAidW5kZXJseWluZ19hc3NldF9zeW1ib2wiOiAiQlRDIiwKICAgICJ2b2x1bWUiOiAwLjA0NzAwMDAwMDAwMDAwMDAxCn0=
+{
+    "close": 1728.0,
+    "contract_type": "call_options",
+    "description": "BTC  Call",
+    "greeks": {
+        "delta": "0.76970394",
+        "gamma": "0.00015421",
+        "rho": "0.40976689",
+        "spot": "55400.9",
+        "theta": "-820.14400543",
+        "vega": "5.32378659"
+    },
+    "high": 4485.0,
+    "initial_margin": "1.000000000000000000",
+    "low": 1636.0,
+    "mark_change_24h": "67.1912",
+    "mark_price": "1691.22734671",
+    "mark_vol": "1.10523545",
+    "oi": "0.0100",
+    "oi_change_usd_6h": "0.0000",
+    "oi_contracts": "10",
+    "oi_value": "0.0100",
+    "oi_value_symbol": "BTC",
+    "oi_value_usd": "553.8910",
+    "open": 3886.0,
+    "price_band": {
+        "lower_limit": "580.84912573",
+        "upper_limit": "2875.76220555"
+    },
+    "product_id": 190844,
+    "quotes": {
+        "ask_iv": "1.28206054",
+        "ask_size": "1453",
+        "best_ask": "1756",
+        "best_bid": "1583",
+        "bid_iv": "0.95460832",
+        "bid_size": "2178",
+        "impact_mid_price": null,
+        "mark_iv": "1.09709314"
+    },
+    "size": 47,
+    "spot_price": "55435.1",
+    "strike_price": "54000",
+    "symbol": "C-BTC-54000-050724",
+    "tags": [],
+    "tick_size": "0.100000000000000000",
+    "timestamp": 1720149270113358,
+    "turnover": 2715.2344,
+    "turnover_symbol": "USDT",
+    "turnover_usd": 2715.2344,
+    "underlying_asset_symbol": "BTC",
+    "volume": 0.04700000000000001
+}
