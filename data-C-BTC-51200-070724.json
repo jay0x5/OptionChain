@@ -2,17 +2,17 @@
     "contract_type": "call_options",
     "description": "BTC  Call",
     "greeks": {
-        "delta": "0.98637345",
-        "gamma": "0.00001321",
-        "rho": "1.31577994",
-        "spot": "56680.7",
-        "theta": "-48.28309961",
-        "vega": "1.00955572"
+        "delta": "0.98639986",
+        "gamma": "0.00001306",
+        "rho": "1.30142562",
+        "spot": "56733.6",
+        "theta": "-49.21519596",
+        "vega": "1.00328305"
     },
     "initial_margin": "1.000000000000000000",
-    "mark_change_24h": "-34.0277",
-    "mark_price": "5494.83647158",
-    "mark_vol": "0.9088125",
+    "mark_change_24h": "-33.6604",
+    "mark_price": "5550.96723448",
+    "mark_vol": "0.92270569",
     "oi": "0.0000",
     "oi_change_usd_6h": "0.0000",
     "oi_contracts": "0",
@@ -20,26 +20,26 @@
     "oi_value_symbol": "BTC",
     "oi_value_usd": "0.0000",
     "price_band": {
-        "lower_limit": "4336.78212254",
-        "upper_limit": "6714.58153902"
+        "lower_limit": "4423.65638211",
+        "upper_limit": "6768.61034468"
     },
     "product_id": 192883,
     "quotes": {
-        "ask_iv": "1.38415176",
-        "ask_size": "1730",
-        "best_ask": "5609",
-        "best_bid": "5378",
+        "ask_iv": "1.40418945",
+        "ask_size": "1721",
+        "best_ask": "5663",
+        "best_bid": "5430",
         "bid_iv": "0.000005",
-        "bid_size": "2595",
+        "bid_size": "2582",
         "impact_mid_price": null,
-        "mark_iv": "0.90864649"
+        "mark_iv": "0.92264296"
     },
-    "spot_price": "56682.3",
+    "spot_price": "56738.3",
     "strike_price": "51200",
     "symbol": "C-BTC-51200-070724",
     "tags": [],
     "tick_size": "0.100000000000000000",
-    "timestamp": 1720271302885462,
+    "timestamp": 1720272201192235,
     "turnover_symbol": "USDT",
     "underlying_asset_symbol": "BTC"
 }
